@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustSoheibSJ
-- 👀 I’m interested in .Net 5 , JavaScripts 
-- 🌱 I’m currently learning ASP.net and React 
+- 👀 I’m interested in .Net, C#, JavaScript
+- 🌱 I’m currently learning ASP.net core . 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
